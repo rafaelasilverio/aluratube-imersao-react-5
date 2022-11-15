@@ -1,0 +1,166 @@
+{
+    "name": "Rafa Silvério",
+    "job": "Scuba Team",
+    "github": "rafaelasilverio",
+    "playlists": {
+      "Conceitos": [
+          {
+            "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+            "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+          },
+          {
+            "title": "Trilha de estudos para ser dev front-end",
+            "url": "https://www.youtube.com/watch?v=ojJe10iWHZk",
+            "thumb": "https://img.youtube.com/vi/ojJe10iWHZk/hqdefault.jpg"
+          },
+          {
+            "title": "Alura: Curso de HTTP: Entendendo a web por baixo dos panos - Aula 1",
+            "url": "https://www.youtube.com/watch?v=1IKkSJ8yMMA",
+            "thumb": "https://img.youtube.com/vi/1IKkSJ8yMMA/hqdefault.jpg"
+          },
+          {
+            "title": "O QUE É FRONT-END E BACK-END???",
+            "url": "https://www.youtube.com/watch?v=Em0R3csNMVE",
+            "thumb": "https://img.youtube.com/vi/Em0R3csNMVE/hqdefault.jpg"
+          },
+          {
+            "title": "O QUE É GIT E GITHUB? - definição e conceitos importantes 1/2",
+            "url": "https://www.youtube.com/watch?v=DqTITcMq68k",
+            "thumb": "https://img.youtube.com/vi/DqTITcMq68k/hqdefault.jpg"
+          },
+          {
+            "title": "How I Became a Software Engineer Without a Computer Science Degree (esse vídeo sempre me motiva)",
+            "url": "https://www.youtube.com/watch?v=2i3v1BbKbs8",
+            "thumb": "https://img.youtube.com/vi/2i3v1BbKbs8/hqdefault.jpg"
+          }
+        ],
+      "HTML, CSS e JavaScript": [
+        {
+          "title": "5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!",
+          "url": "https://www.youtube.com/watch?v=3oSIqIqzN3M",
+          "thumb": "https://img.youtube.com/vi/3oSIqIqzN3M/hqdefault.jpg"
+        },
+        {
+          "title": "O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES)",
+          "url": "https://www.youtube.com/watch?v=LWU2OR19ZG4",
+          "thumb": "https://img.youtube.com/vi/LWU2OR19ZG4/hqdefault.jpg"
+        },
+        {
+          "title": "LANDING PAGE COM HTML e CSS!",
+          "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+          "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+        },
+        {
+          "title": "Vídeo 1 | O que é JavaScript?",
+          "url": "https://www.youtube.com/watch?v=hXwhEsfvJjE",
+          "thumb": "https://img.youtube.com/vi/hXwhEsfvJjE/hqdefault.jpg"
+        },
+        {
+          "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+          "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+          "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+        },
+        {
+          "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+          "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+          "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+        }
+      ],
+      "Frameworks & Bibliotecas": [
+        {
+          "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+          "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+          "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+        },
+        {
+          "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+          "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+        },
+        {
+          "title": "Diferenças entre React e React Native | #AluraMais",
+          "url": "https://www.youtube.com/watch?v=2-OAUXA4IcE",
+          "thumb": "https://img.youtube.com/vi/2-OAUXA4IcE/hqdefault.jpg"
+        },
+        {
+          "title": "O que estudar antes de tentar aprender um Framework JavaScript? (React, Angular, Vue) #ImersaoReact",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI",
+          "thumb": "https://img.youtube.com/vi/QzDjdlF1BQI/hqdefault.jpg"
+        },
+        {
+          "title": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta #ReactJS",
+          "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA",
+          "thumb": "https://img.youtube.com/vi/4BxrxiMMjcA/hqdefault.jpg"
+        },
+        {
+        "title": "Se Você Passar Por Esses 5 Desafios, Você Aprendeu React JS",
+        "url": "https://www.youtube.com/watch?v=aJR7f45dBNs",
+        "thumb": "https://img.youtube.com/vi/aJR7f45dBNs/hqdefault.jpg"
+        }
+      ],
+      "Músicas para ouvir enquanto coda :)": [
+        {
+          "title": "Folklore - Album Instrumental",
+          "url": "https://www.youtube.com/watch?v=b9XCN_0Tkpw",
+          "thumb": "https://img.youtube.com/vi/b9XCN_0Tkpw/hqdefault.jpg"
+        },
+        {
+          "title": "Evermore Full Album | Instrumental, Acoustic with Rain Sounds | Long Pond Studio",
+          "url": "https://www.youtube.com/watch?v=nGIibhciLDc",
+          "thumb": "https://img.youtube.com/vi/nGIibhciLDc/hqdefault.jpg"
+        },
+        {
+          "title":"Lo fi Brasileiro | lofi hip hop {bossa nova, mpb, funk +} brazil songs playlist",
+           "url":"https://www.youtube.com/watch?v=BdwHxZhkce0",
+           "thumb":"https://img.youtube.com/vi/BdwHxZhkce0/hqdefault.jpg"
+        },
+        {
+          "title":"LOFI NORDESTE | Zé Ramalho, Alceu Valença, Luiz Gonzaga, Belchior",
+           "url":"https://www.youtube.com/watch?v=GwpdmkBUtL8",
+           "thumb":"https://img.youtube.com/vi/GwpdmkBUtL8/hqdefault.jpg"
+        },
+        {
+          "title": "studio ghibli playlist (relax, sleep, study)🌱",
+          "url": "https://www.youtube.com/watch?v=PHklnuOvxfg",
+          "thumb": "https://img.youtube.com/vi/PHklnuOvxfg/hqdefault.jpg"
+        },
+        {
+          "title": "STUDY AT HOGWARTS - Pomodoro | ASMR + Music Breaks | Study with me Harry Potter Peaceful Relaxing",
+          "url": "https://www.youtube.com/watch?v=IzaPLc9TuRE",
+          "thumb": "https://img.youtube.com/vi/IzaPLc9TuRE/hqdefault.jpg"
+        },
+        {
+          "title": "The Very Best Of ENYA - ENYA Greatest Hits Full Album",
+          "url": "https://www.youtube.com/watch?v=ukDFWLWd8gM",
+          "thumb": "https://img.youtube.com/vi/bPCdsa7hS7M/hqdefault.jpg"
+        }
+      ]
+    },
+    "favoritos": [
+      {
+        "github": "peas",
+        "arroba": "@paulo_hipster"
+      },
+      {
+        "github": "rafaballerini",
+        "arroba": "@rafaballerini"
+      },
+      {
+        "github": "filipedeschamps",
+        "arroba": "@filipedeschamps"
+      },
+      {
+        "github": "gabrielfroes",
+        "arroba": "@codigofontetv"
+      },
+      {
+        "github": "TheComeUpCode",
+        "arroba": "@bukola.dev"
+      },
+      {
+        "github": "Fryingpannn",
+        "arroba": "@fryingpan"
+      }
+    ]
+  }
